@@ -1,16 +1,18 @@
-## Hi there 👋
+### DIVINE-MACHINERY.SYS 
+- Low-level programming and operating system development. <3  
 
-<!--
-**Lux-Sonechka/Lux-Sonechka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests 
+- Operating Systems & OSDev
+- C, C#, PYTHON, GML, etc
+- Linux and systems programming
+-  Cybersecurity
+- Retrocomputing
+- Quantum & Classic Physics
+-  Math
 
-Here are some ideas to get you started:
+### CONCLUDED PERSONAL GOALS
+[x] To write an Operational System from Scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[x] To make a LFS distro.
+
+[x] To make a whole web-site and host it.
